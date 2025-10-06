@@ -96,3 +96,11 @@ Pharma-Drug-Sales-Analysis/
 - **Filtering Data** – Removed irrelevant or outlier entries that could skew analysis.
 
 - **Aggregating Data** – Created daily, weekly, and monthly summaries for trend analysis.
+
+---
+<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+
+1. Clone or Download the Repository
+```bash
+git clone https://github.com/yourusername/Pharma-Drug-Sales-Analysis.git
+```
