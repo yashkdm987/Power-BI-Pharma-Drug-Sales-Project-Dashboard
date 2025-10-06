@@ -43,4 +43,4 @@ The goal is to provide actionable insights for business decision-making and to d
 
 - **salesmonthly.csv** – Monthly sales summaries.
 
-- **saleshourly.csv** – Hourly sales data (if available for detailed analysis).
+- **saleshourly.csv** – Hourly sales data
