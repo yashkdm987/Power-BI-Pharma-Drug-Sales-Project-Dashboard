@@ -106,12 +106,17 @@ git clone https://github.com/yourusername/Pharma-Drug-Sales-Analysis.git
 ```
 
 2. Open Power BI Desktop
+  
   - `If you don’t have it, download Power BI Desktop`
 
 3. Connect or Refresh the Dataset
+ 
   - `Ensure the dataset (.csv files) in the Dataset folder are correctly linked.`
+ 
   - `Click “Refresh” in Power BI to load the latest data.`
 
 4. Explore the Dashboard
+ 
   - `Interact with filters, slicers, and charts.`
+  
   - `View sales performance by product, region, and time period.`
