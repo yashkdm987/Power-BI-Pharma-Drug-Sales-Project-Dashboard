@@ -60,3 +60,14 @@ The goal is to provide actionable insights for business decision-making and to d
 - **Visualization Tools** – Charts, tables, slicers, and filters within Power BI for insights.
 
 - **Git / GitHub** – Version control and project sharing.
+
+---
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
+- **Handling Missing Values** – Identified and treated missing or incomplete records.
+
+- **Removing Duplicates** – Ensured each sales transaction is unique.
+
+- **Filtering Data** – Removed irrelevant or outlier entries that could skew analysis.
+
+- **Aggregating Data** – Created daily, weekly, and monthly summaries for trend analysis.
