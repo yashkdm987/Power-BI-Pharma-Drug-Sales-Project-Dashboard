@@ -115,3 +115,16 @@ git clone https://github.com/yourusername/Pharma-Drug-Sales-Analysis.git
 4. Explore the Dashboard
   - `Interact with filters, slicers, and charts.`
   - `View sales performance by product, region, and time period.`
+
+---
+<h2><a class="anchor" id="conclusion"></a>conclusion</h2>
+
+**This project demonstrates how Power BI can transform raw pharma sales data into actionable insights. It highlights key trends, top-performing products, and regional performance to support data-driven decision-making.**
+
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Yash Kadam**  
+Data Analyst  
+📧 Email: yashkadam3000@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-kadam-ba2688211/)
