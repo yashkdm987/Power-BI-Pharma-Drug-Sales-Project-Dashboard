@@ -44,3 +44,19 @@ The goal is to provide actionable insights for business decision-making and to d
 - **salesmonthly.csv** – Monthly sales summaries.
 
 - **saleshourly.csv** – Hourly sales data
+
+---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- **Power BI Desktop** – For data visualization, dashboard creation, and interactive reporting.
+
+- **Excel / CSV** – For raw data storage and initial data exploration.
+
+- **Power Query Editor** – For data cleaning and transformation.
+
+- **DAX (Data Analysis Expressions)** – For advanced calculations and measures in Power BI.
+
+- **Visualization Tools** – Charts, tables, slicers, and filters within Power BI for insights.
+
+- **Git / GitHub** – Version control and project sharing.
