@@ -16,3 +16,10 @@ This repository contains a complete analysis of pharmaceutical drug sales using 
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#conclusion">conclusion</a>
 - <a href="#author--contact">Author & Contact</a>
+
+---
+<h2><a class="anchor" id="overview"></a>Overview</h2>
+
+- Import, clean, and transform sales data for analysis.
+- Develop insightful visualizations to identify sales trends, market dynamics, and other critical metrics.
+- Build a polished, interactive Power BI dashboard to explore pharma drug sales insights.
