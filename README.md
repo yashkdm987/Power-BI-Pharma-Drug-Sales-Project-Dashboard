@@ -61,6 +61,31 @@ The goal is to provide actionable insights for business decision-making and to d
 
 - **Git / GitHub** – Version control and project sharing.
 
+- ---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+Pharma-Drug-Sales-Analysis/
+│
+├── 📂 Dataset/
+│   ├── salesdaily.csv
+│   ├── salesweekly.csv
+│   ├── salesmonthly.csv
+│   └── saleshourly.csv
+│
+├── 📂 PowerBI_Dashboard/
+│   └── Pharma_Drug_Sales_Analysis.pbix
+│
+├── 📂 Images/
+│   └── Power_BI_Pharma_Project.png
+│
+├── 📜 README.md
+│
+├── 📜 Data_Cleaning_Preparation.md      # Details about data cleaning steps
+│
+└── 📜 Insights_Report.md                # Key findings and observations
+```
+
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
