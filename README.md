@@ -33,3 +33,14 @@ The goal is to provide actionable insights for business decision-making and to d
 - **Sales Trends** by product, region, and timeframe.
 - **Market Dynamics** insights to understand competitive landscape and product performance.
 - **Key Metrics** for tracking overall sales performance and specific drug sales.
+
+---
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- **salesdaily.csv** – Daily sales transactions for various drugs.
+
+- **salesweekly.csv** – Weekly aggregated sales data.
+
+- **salesmonthly.csv** – Monthly sales summaries.
+
+- **saleshourly.csv** – Hourly sales data (if available for detailed analysis).
