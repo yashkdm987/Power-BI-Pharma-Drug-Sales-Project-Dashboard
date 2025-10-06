@@ -11,8 +11,7 @@ Pharma Drug Sales Analysis using Power BI. Explore sales trends, top-performing 
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
-- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#conclusion">conclusion</a>
 - <a href="#author--contact">Author & Contact</a>
